@@ -103,13 +103,6 @@ main {
     border-radius: 100%;
 }
 
-.dashboard.avatar {
-    border-radius: 100%;
-    display: block;
-    height: 10px;
-    width: 70px;
-}
-
 .dashboard .icon {
     height: 30px;
     width: 30px;
